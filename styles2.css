@@ -1,0 +1,47 @@
+body{
+    background-color: skyblue;
+}
+
+h1{
+    border-style: solid;
+    border-width: 1px;
+    border-color: black;
+}
+
+.first_p{
+    background-color: yellow;
+}
+
+h2{
+    color: purple;
+}
+
+.firstitem{
+    color: rebeccapurple;
+   text-decoration: overline;
+   }
+
+.thirditem{
+    color: red;
+    text-decoration: underline;
+}
+
+#firsttextarea{
+    border: gray;
+    border-width: thick;
+    border-style: solid;
+}
+
+#inputs{
+    border: red;
+    border-width: 2px;
+    border-style: solid; 
+}
+
+.questions{
+    background-color: blue;
+    border: yellow;
+    border-width: thick;
+    border-style: dashed; 
+
+}

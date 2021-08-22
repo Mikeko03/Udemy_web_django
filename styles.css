@@ -1,0 +1,34 @@
+/* toto je koment */
+h1{
+    font-family:Helvetica, sans-serif;
+    color: blue;
+}
+
+li{
+   color: rgb(8, 84, 1); 
+}
+
+p{
+    color: #bada55
+}
+
+body{
+    background: url(https://cdn.mos.cms.futurecdn.net/wtqqnkYDYi2ifsWZVW2MT4-970-80.jpg.webp);
+    background-repeat: repeat;
+}
+
+div{
+    background-color: white;
+    border-color: red;
+    border-width: 10px;
+    border-style: dotted;
+}
+
+.tryhard{
+    color: khaki;
+}
+
+span{
+    background: black;
+}
+
