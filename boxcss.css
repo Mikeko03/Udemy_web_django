@@ -1,13 +1,16 @@
 table{
-    align-items: center;
-    border-spacing: 0.8em;
-    margin-left: auto;
-    margin-right: auto;
-    text-align: center;
+    border-spacing: 0.4em;
+    margin: auto;
+    width: 75%;
+}
+
+tr{
+    width: 35em;
+    height: 15em;
 }
 
 main{
-    align-self: center;
+    text-align: center;
     font-family: 'Indie Flower', cursive;
     text-align: center; 
     margin-top: 3em;
@@ -18,27 +21,16 @@ main{
     
 .first{
     background-color: blueviolet;
-    width: 8em;
-    height: 17em;
 }
 .second{
     background-color: green;
-    width: 8em;
-    height: 17em;
 }
 .third{
     background-color: yellow;
-    width: 8em;
-    height: 17em;
 }
 .forth{
     background-color: orange;
-    width: 8em;
-    height: 17em;
 }
-
 .fifth{
     background-color: red;
-    width: 8em;
-    height: 17em;
 }
