@@ -5,19 +5,22 @@ table{
     margin-right: auto;
     text-align: center;
 }
-/* article{
+
+main{
     align-self: center;
     font-family: 'Indie Flower', cursive;
-    text-align: center; */
+    text-align: center; 
+    margin-top: 3em;
+    font-size: 25px;
+    font-weight: bolder;
     
 }
-
+    
 .first{
     background-color: blueviolet;
     width: 8em;
     height: 17em;
 }
-
 .second{
     background-color: green;
     width: 8em;
