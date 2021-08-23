@@ -3,9 +3,7 @@ body{
 }
 
 h1{
-    border-style: solid;
-    border-width: 1px;
-    border-color: black;
+    border: black 1px solid;
 }
 
 .first_p{
@@ -21,27 +19,22 @@ h2{
    text-decoration: overline;
    }
 
-.thirditem{
-    color: red;
-    text-decoration: underline;
-}
+ li a{
+     color: red;
+     text-decoration: underline;
+ }
+
 
 #firsttextarea{
-    border: gray;
-    border-width: thick;
-    border-style: solid;
+    border: gray thick solid;
 }
 
 #inputs{
-    border: red;
-    border-width: 2px;
-    border-style: solid; 
+    border: red 2px solid;
+
 }
 
 .questions{
     background-color: blue;
-    border: yellow;
-    border-width: thick;
-    border-style: dashed; 
-
+    border: yellow thick dashed;
 }
